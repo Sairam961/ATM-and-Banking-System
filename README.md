@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225040358
+# Name: Sairam R
+# Date: 28-10-26
 
 
 # AIM:
