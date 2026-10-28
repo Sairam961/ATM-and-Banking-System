@@ -49,7 +49,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
-
+<img width="1280" height="767" alt="image" src="https://github.com/user-attachments/assets/102ac89b-f5a0-4ff8-8285-8c44bdf4a435" />
 
 
 
@@ -69,6 +69,9 @@ Visually express any specific needs of a system and disseminate that information
 Create detailed charts that…
 
 
+<img width="1280" height="763" alt="image" src="https://github.com/user-attachments/assets/911995a8-c1fb-45fe-ad66-7b5f4f8d4fac" />
+
+
 
 # COMMUNICTION DIAGRAM:
 
@@ -76,6 +79,10 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+
+
+
+<img width="1280" height="764" alt="image" src="https://github.com/user-attachments/assets/127dca91-62d1-4755-9c5e-ca0db4b60529" />
 
 
 
@@ -89,6 +96,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="1280" height="766" alt="image" src="https://github.com/user-attachments/assets/deb181ac-70dd-428d-b20b-4a3adc46bdfc" />
 
 
 
@@ -106,6 +114,8 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
+
+<img width="1280" height="763" alt="image" src="https://github.com/user-attachments/assets/35653e00-df1f-4956-8b41-3313a3e07a00" />
 
 
 
@@ -127,6 +137,8 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
+
+<img width="1280" height="764" alt="image" src="https://github.com/user-attachments/assets/b23fd108-582e-4cc3-b553-649df822de6d" />
 
 
 
